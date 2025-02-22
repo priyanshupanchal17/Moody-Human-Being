@@ -48,4 +48,4 @@ Scalability
 2) User activity throughout the day can be tracked both text and facial features to determine the mood
 3) Songs can be customised based on the user criterion
 
-
+My trained model on : https://github.com/priyanshupanchal17/Moody-Human-Being/releases/tag/emo_recognition
